@@ -17,7 +17,7 @@ title: Your Uncle Mike's blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Random musings from a computer professional burning down his 6th decade on this world.
-baseurl: "" # the subpath of your site, e.g. blog-subdirectory
+baseurl: "blog" # the subpath of your site, e.g. blog-subdirectory
 url: 'https://yourUncleMike.github.io'
 twitter_username: yourUncleMike
 author: M. D. Clay
