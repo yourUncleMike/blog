@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Title of Your Blog
+title: Your Uncle Mike's blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Multi-line description of what your blog is about
-  note, newlines are stripped by during build process
+  Random musings from a computer professional burning down his 6th decade on this world.
 baseurl: "" # the subpath of your site, e.g. blog-subdirectory
 url: 'https://yourUncleMike.github.io'
 twitter_username: yourUncleMike
-author: yourUncleMike
+author: M. D. Clay
 github_username: yourUncleMike
 
 
