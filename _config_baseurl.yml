@@ -1,0 +1,4 @@
+## Use base URL to simulate GitHub pages behavior, check
+##  https://github.com/S0AndS0/Jekyll_Admin
+## for how extra config files can be used for local builds
+baseurl: "blog-subdirectory"
